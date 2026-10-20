@@ -1,0 +1,488 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 10.174857142857144,
+    "text": "Hello, this is 6 Minute English from BBC Learning English."
+  },
+  {
+    "id": 1,
+    "startTime": 10.174857142857144,
+    "endTime": 12.280000000000001,
+    "text": "I'm Georgie."
+  },
+  {
+    "id": 2,
+    "startTime": 12.280000000000001,
+    "endTime": 13.08810810810811,
+    "text": "And I'm Phil."
+  },
+  {
+    "id": 3,
+    "startTime": 13.08810810810811,
+    "endTime": 15.698918918918919,
+    "text": "Did you have any breakfast today, Georgie?"
+  },
+  {
+    "id": 4,
+    "startTime": 15.698918918918919,
+    "endTime": 16.88,
+    "text": "Or did you skip it?"
+  },
+  {
+    "id": 5,
+    "startTime": 16.88,
+    "endTime": 18.73287356321839,
+    "text": "I did have some breakfast."
+  },
+  {
+    "id": 6,
+    "startTime": 18.73287356321839,
+    "endTime": 23.080000000000002,
+    "text": "On the way to the office, I got myself a pastry and a coffee."
+  },
+  {
+    "id": 7,
+    "startTime": 23.080000000000002,
+    "endTime": 24.08,
+    "text": "What about you?"
+  },
+  {
+    "id": 8,
+    "startTime": 24.08,
+    "endTime": 30.759999999999998,
+    "text": "I had a big bowl of porridge, but it was at 6 o'clock this morning, so I'm hungry again now."
+  },
+  {
+    "id": 9,
+    "startTime": 30.759999999999998,
+    "endTime": 36.869803921568625,
+    "text": "And you might soon be hungry as well, because we're going to talk about breakfast."
+  },
+  {
+    "id": 10,
+    "startTime": 36.869803921568625,
+    "endTime": 38.36,
+    "text": "How important is it?"
+  },
+  {
+    "id": 11,
+    "startTime": 38.36,
+    "endTime": 43.44,
+    "text": "Let's start by hearing from Professor Alexandra Johnston, a nutrition scientist who spoke to"
+  },
+  {
+    "id": 12,
+    "startTime": 43.44,
+    "endTime": 49.32,
+    "text": "Ruth Alexander, host of BBC World Service programme, The Food Chain."
+  },
+  {
+    "id": 13,
+    "startTime": 49.32,
+    "endTime": 54.6,
+    "text": "I am supporting the meme breakfast like a king and dine like a pauper."
+  },
+  {
+    "id": 14,
+    "startTime": 54.6,
+    "endTime": 58.4,
+    "text": "For you then, breakfast is the most important meal of the day."
+  },
+  {
+    "id": 15,
+    "startTime": 58.4,
+    "endTime": 58.95762376237624,
+    "text": "I agree."
+  },
+  {
+    "id": 16,
+    "startTime": 58.95762376237624,
+    "endTime": 68.08,
+    "text": "So it's really important, particularly for people who are trying to maintain a healthy weight and people who are trying to lose weight."
+  },
+  {
+    "id": 17,
+    "startTime": 68.08,
+    "endTime": 73.48,
+    "text": "Alexandra says that you should breakfast like a king and dine like a pauper."
+  },
+  {
+    "id": 18,
+    "startTime": 73.48,
+    "endTime": 77.17827586206897,
+    "text": "Pauper is an old-fashioned word for a very poor person."
+  },
+  {
+    "id": 19,
+    "startTime": 77.17827586206897,
+    "endTime": 81.28,
+    "text": "The expression means have a big breakfast and a small dinner."
+  },
+  {
+    "id": 20,
+    "startTime": 81.28,
+    "endTime": 86.64,
+    "text": "We're going to find out some of the reasons that Alexandra and other experts recommend doing this."
+  },
+  {
+    "id": 21,
+    "startTime": 86.64,
+    "endTime": 90.52000000000001,
+    "text": "And as usual, we'll learn some useful new words and phrases."
+  },
+  {
+    "id": 22,
+    "startTime": 90.52000000000001,
+    "endTime": 97.83831578947368,
+    "text": "And remember, you'll find all the vocabulary and a quiz on our website, bbclearningenglish."
+  },
+  {
+    "id": 23,
+    "startTime": 97.83831578947368,
+    "endTime": 98.16,
+    "text": "com."
+  },
+  {
+    "id": 24,
+    "startTime": 98.16,
+    "endTime": 101.3984,
+    "text": "OK, but first I have a question for you, Phil."
+  },
+  {
+    "id": 25,
+    "startTime": 101.3984,
+    "endTime": 107.67999999999999,
+    "text": "According to a recent survey, which of the following is the most popular breakfast in the UK?"
+  },
+  {
+    "id": 26,
+    "startTime": 107.67999999999999,
+    "endTime": 113.12,
+    "text": "Is it A, eggs, B, toast, or C, cereal?"
+  },
+  {
+    "id": 27,
+    "startTime": 113.12,
+    "endTime": 118.16,
+    "text": "Well, I think people like to keep it simple, so I'm going to say toast."
+  },
+  {
+    "id": 28,
+    "startTime": 118.16,
+    "endTime": 121.67999999999999,
+    "text": "OK, well, we'll find out the answer later in the programme."
+  },
+  {
+    "id": 29,
+    "startTime": 121.67999999999999,
+    "endTime": 125.84,
+    "text": "Let's hear some reasons for why we should breakfast like a king or queen."
+  },
+  {
+    "id": 30,
+    "startTime": 125.84,
+    "endTime": 136.32,
+    "text": "Courtney Peterson, who researches eating behaviours, explains how the time of day affects how our bodies process food on BBC World's service programme, The Food Chain."
+  },
+  {
+    "id": 31,
+    "startTime": 136.32,
+    "endTime": 146.16,
+    "text": "And so if you can eat a large breakfast in the morning and or I would even say a large lunch in the morning, your body's going to be better at metabolising that food."
+  },
+  {
+    "id": 32,
+    "startTime": 146.16,
+    "endTime": 151,
+    "text": "And what that means is your body's going to actually your blood sugar levels won't spike as high."
+  },
+  {
+    "id": 33,
+    "startTime": 151,
+    "endTime": 152.92,
+    "text": "You might burn slightly more fat."
+  },
+  {
+    "id": 34,
+    "startTime": 152.92,
+    "endTime": 156.56,
+    "text": "You might burn slightly more calories from eating earlier in the day."
+  },
+  {
+    "id": 35,
+    "startTime": 156.56,
+    "endTime": 161.92,
+    "text": "Whereas if you had, if you eat most of your food later in the day, your metabolism is actually slower later in the day."
+  },
+  {
+    "id": 36,
+    "startTime": 161.92,
+    "endTime": 172.92000000000002,
+    "text": "So for instance, if you ate the same, I don't know, bowl of ice cream in the morning, the afternoon in the evening, your blood sugar levels will spike significantly higher in the afternoon in the evening."
+  },
+  {
+    "id": 37,
+    "startTime": 172.92000000000002,
+    "endTime": 174.96,
+    "text": "We heard the noun metabolism."
+  },
+  {
+    "id": 38,
+    "startTime": 174.96,
+    "endTime": 179.08,
+    "text": "This is a word that refers to the chemical processes in your body."
+  },
+  {
+    "id": 39,
+    "startTime": 179.16000000000003,
+    "endTime": 183.92000000000002,
+    "text": "And we most often use it to talk about those that convert food into energy."
+  },
+  {
+    "id": 40,
+    "startTime": 183.92000000000002,
+    "endTime": 187.48000000000002,
+    "text": "And we also heard the verb form metabolise."
+  },
+  {
+    "id": 41,
+    "startTime": 187.48000000000002,
+    "endTime": 190.72000000000003,
+    "text": "Courtney talked about blood sugar levels spiking."
+  },
+  {
+    "id": 42,
+    "startTime": 190.72000000000003,
+    "endTime": 193.12,
+    "text": "A spike is a sharp pointed shape."
+  },
+  {
+    "id": 43,
+    "startTime": 193.12,
+    "endTime": 197.48000000000002,
+    "text": "If you see it on a line graph, it means that something has increased very rapidly."
+  },
+  {
+    "id": 44,
+    "startTime": 197.48000000000002,
+    "endTime": 202.72000000000003,
+    "text": "We often use the noun spike to mean a sudden increase in a value that is being measured."
+  },
+  {
+    "id": 45,
+    "startTime": 202.72000000000003,
+    "endTime": 205.92,
+    "text": "The verb spike means to suddenly increase."
+  },
+  {
+    "id": 46,
+    "startTime": 205.92,
+    "endTime": 210.11999999999998,
+    "text": "We've heard that eating earlier in the day can be healthier for us."
+  },
+  {
+    "id": 47,
+    "startTime": 210.11999999999998,
+    "endTime": 217.35999999999999,
+    "text": "Now, people often don't eat breakfast, sometimes because they don't have time, sometimes because they're trying to save money."
+  },
+  {
+    "id": 48,
+    "startTime": 217.35999999999999,
+    "endTime": 224.35999999999999,
+    "text": "Let's hear again from Professor Alexandra Johnston talking to BBC World Services, The Food Chain."
+  },
+  {
+    "id": 49,
+    "startTime": 224.35999999999999,
+    "endTime": 244.88,
+    "text": "Now, breakfast skipping is interesting because my own work would tend to suggest that sort of observational large-scale epidemiological studies would also support this, that people who have a regular breakfast are actually leaner."
+  },
+  {
+    "id": 50,
+    "startTime": 244.88,
+    "endTime": 264.24,
+    "text": "And my own work would tend to suggest that having your largest meal of the day in the morning period gives you a much better appetite control, which then means it's much easier to control food intake later in the day."
+  },
+  {
+    "id": 51,
+    "startTime": 264.24,
+    "endTime": 267.56,
+    "text": "Alexandra starts by mentioning breakfast skipping."
+  },
+  {
+    "id": 52,
+    "startTime": 267.56,
+    "endTime": 270.2,
+    "text": "If you skip something, then you don't do it."
+  },
+  {
+    "id": 53,
+    "startTime": 270.2,
+    "endTime": 273.52,
+    "text": "Bad students might skip lessons, they don't go to them."
+  },
+  {
+    "id": 54,
+    "startTime": 273.52,
+    "endTime": 276.52,
+    "text": "If you skip a meal, it means that you don't eat it."
+  },
+  {
+    "id": 55,
+    "startTime": 276.52,
+    "endTime": 281.4,
+    "text": "We also heard that people who have a regular breakfast are leaner."
+  },
+  {
+    "id": 56,
+    "startTime": 281.4,
+    "endTime": 284.56,
+    "text": "If someone is lean, then they're not fat."
+  },
+  {
+    "id": 57,
+    "startTime": 284.56,
+    "endTime": 290.12,
+    "text": "And one of the reasons given why people might be leaner is that they have better appetite control."
+  },
+  {
+    "id": 58,
+    "startTime": 290.12,
+    "endTime": 294.08,
+    "text": "Appetite control is where your brain decides how much you should eat."
+  },
+  {
+    "id": 59,
+    "startTime": 294.08,
+    "endTime": 295.15999999999997,
+    "text": "Thanks, Georgie."
+  },
+  {
+    "id": 60,
+    "startTime": 295.15999999999997,
+    "endTime": 298.84,
+    "text": "Now, I think it's time that we heard the answer to your question."
+  },
+  {
+    "id": 61,
+    "startTime": 298.84,
+    "endTime": 300.2,
+    "text": "Yes, it is."
+  },
+  {
+    "id": 62,
+    "startTime": 300.2,
+    "endTime": 306.79999999999995,
+    "text": "OK, I asked, according to a recent survey, what is the most popular breakfast in the UK?"
+  },
+  {
+    "id": 63,
+    "startTime": 306.79999999999995,
+    "endTime": 308.79999999999995,
+    "text": "And I said toast."
+  },
+  {
+    "id": 64,
+    "startTime": 308.84000000000003,
+    "endTime": 315.92,
+    "text": "Which was the most popular in London, but the most popular in the country as a whole was cereal."
+  },
+  {
+    "id": 65,
+    "startTime": 315.92,
+    "endTime": 319.2,
+    "text": "And that's according to a survey by a cereal manufacturer."
+  },
+  {
+    "id": 66,
+    "startTime": 319.2,
+    "endTime": 320.88,
+    "text": "So I'm afraid you got it wrong."
+  },
+  {
+    "id": 67,
+    "startTime": 320.88,
+    "endTime": 328,
+    "text": "OK, let's recap the vocabulary we've learned starting with pauper, which is an old-fashioned word for a very poor person."
+  },
+  {
+    "id": 68,
+    "startTime": 328,
+    "endTime": 332.64,
+    "text": "When we're talking about data, it spikes when it increases suddenly."
+  },
+  {
+    "id": 69,
+    "startTime": 332.64,
+    "endTime": 338.64,
+    "text": "Metabolism refers to the chemical processes inside your body, especially those which process food."
+  },
+  {
+    "id": 70,
+    "startTime": 338.68,
+    "endTime": 341.31529411764706,
+    "text": "If you skip something, you miss it."
+  },
+  {
+    "id": 71,
+    "startTime": 341.31529411764706,
+    "endTime": 342.52,
+    "text": "You don't do it."
+  },
+  {
+    "id": 72,
+    "startTime": 342.52,
+    "endTime": 345,
+    "text": "If someone is lean, then they are not fat."
+  },
+  {
+    "id": 73,
+    "startTime": 345,
+    "endTime": 350.96,
+    "text": "And finally, appetite control is how your brain decides how much you should eat."
+  },
+  {
+    "id": 74,
+    "startTime": 350.96,
+    "endTime": 357.5562886597938,
+    "text": "Once again, our six minutes are up, but why not head over to our website, bbclearningenglish."
+  },
+  {
+    "id": 75,
+    "startTime": 357.5562886597938,
+    "endTime": 361.47999999999996,
+    "text": "com, to try the quiz and worksheet for this episode."
+  },
+  {
+    "id": 76,
+    "startTime": 361.47999999999996,
+    "endTime": 362.59999999999997,
+    "text": "See you again soon."
+  },
+  {
+    "id": 77,
+    "startTime": 362.59999999999997,
+    "endTime": 363.47999999999996,
+    "text": "Goodbye."
+  },
+  {
+    "id": 78,
+    "startTime": 363.47999999999996,
+    "endTime": 364.64,
+    "text": "Bye."
+  },
+  {
+    "id": 79,
+    "startTime": 368.64,
+    "endTime": 370.36727272727273,
+    "text": "bbclearningenglish."
+  },
+  {
+    "id": 80,
+    "startTime": 370.36727272727273,
+    "endTime": 370.64,
+    "text": "com"
+  }
+]

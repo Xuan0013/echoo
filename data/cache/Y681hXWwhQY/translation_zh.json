@@ -1,0 +1,478 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 1.2981818181818183,
+    "text": "Hello.",
+    "translation": "你好。"
+  },
+  {
+    "id": 1,
+    "startTime": 1.2981818181818183,
+    "endTime": 12.332727272727274,
+    "text": "This is 6 Minute English from BBC Learning English.",
+    "translation": "这是BBC学习英语的6分钟英语。"
+  },
+  {
+    "id": 2,
+    "startTime": 12.332727272727274,
+    "endTime": 14.280000000000001,
+    "text": "I'm Beth.",
+    "translation": "我是贝丝。"
+  },
+  {
+    "id": 3,
+    "startTime": 14.280000000000001,
+    "endTime": 15.155053763440861,
+    "text": "And I'm Neil.",
+    "translation": "我是尼尔。"
+  },
+  {
+    "id": 4,
+    "startTime": 15.155053763440861,
+    "endTime": 21.03965517241379,
+    "text": "Phew, I've spent a day in meetings, then shopping, then collecting the kids from school.",
+    "translation": "唷，我花了一天时间开会，然后购物，然后去学校接孩子。"
+  },
+  {
+    "id": 5,
+    "startTime": 21.03965517241379,
+    "endTime": 22.467241379310344,
+    "text": "I'm exhausted, Beth.",
+    "translation": "我累坏了，贝丝。"
+  },
+  {
+    "id": 6,
+    "startTime": 22.467241379310344,
+    "endTime": 24.68,
+    "text": "What have you been doing today?",
+    "translation": "你今天在做什么？"
+  },
+  {
+    "id": 7,
+    "startTime": 24.68,
+    "endTime": 25.32901408450704,
+    "text": "Not much.",
+    "translation": "不多。"
+  },
+  {
+    "id": 8,
+    "startTime": 25.32901408450704,
+    "endTime": 29.8,
+    "text": "Just sitting around, doing nothing, relaxing and kicking back.",
+    "translation": "只是坐在那里，什么也不做，放松和放松。"
+  },
+  {
+    "id": 9,
+    "startTime": 29.8,
+    "endTime": 30.310000000000002,
+    "text": "Lucky you.",
+    "translation": "你真幸运。"
+  },
+  {
+    "id": 10,
+    "startTime": 30.310000000000002,
+    "endTime": 31.84,
+    "text": "Don't you have any work to do?",
+    "translation": "你没有工作要做吗？"
+  },
+  {
+    "id": 11,
+    "startTime": 31.84,
+    "endTime": 35.60296296296296,
+    "text": "It may not look it, Neil, but I'm actually as busy as a bee.",
+    "translation": "看起来可能不像，尼尔，但我实际上忙得像只蜜蜂。"
+  },
+  {
+    "id": 12,
+    "startTime": 35.60296296296296,
+    "endTime": 44.26252873563219,
+    "text": "If you've seen nature documentaries about worker bees flying from flower to flower, you probably think animals are always on the move.",
+    "translation": "如果你看过关于工蜂从一朵花飞到另一朵花的自然纪录片，你可能会认为动物总是在移动。"
+  },
+  {
+    "id": 13,
+    "startTime": 44.26252873563219,
+    "endTime": 52.8,
+    "text": "But the surprising truth is, away from the cameras, most animals spend most of their time doing absolutely nothing at all.",
+    "translation": "但令人惊讶的事实是，远离摄像机，大多数动物大部分时间都什么都不做。"
+  },
+  {
+    "id": 14,
+    "startTime": 52.8,
+    "endTime": 59.744,
+    "text": "In the natural world, where finding food and shelter is hard work, why have some animals evolved to do nothing?",
+    "translation": "在自然界，寻找食物和住所是一项艰苦的工作，为什么有些动物进化到什么都不做？"
+  },
+  {
+    "id": 15,
+    "startTime": 59.744,
+    "endTime": 64.89333333333333,
+    "text": "And if it's good enough for animals, would-being-lazy work for humans, too?",
+    "translation": "如果懒惰对动物来说足够好，那么懒惰对人类也会起作用吗？"
+  },
+  {
+    "id": 16,
+    "startTime": 64.89333333333333,
+    "endTime": 72.88,
+    "text": "That's what we'll be discussing in this program and, as usual, we'll be learning some useful new vocabulary as well.",
+    "translation": "这就是我们将在这个节目中讨论的内容，像往常一样，我们也将学习一些有用的新词汇。"
+  },
+  {
+    "id": 17,
+    "startTime": 72.88,
+    "endTime": 77.37090909090908,
+    "text": "But first, let me work up the energy to ask you a question, Neil.",
+    "translation": "但首先，让我鼓起勇气问你一个问题，尼尔。"
+  },
+  {
+    "id": 18,
+    "startTime": 77.37090909090908,
+    "endTime": 82.10499999999999,
+    "text": "Of course, some animals have a reputation for lounging about.",
+    "translation": "当然，有些动物以懒洋洋而闻名。"
+  },
+  {
+    "id": 19,
+    "startTime": 82.10499999999999,
+    "endTime": 86.44,
+    "text": "Lions, for example, can sleep up to 20 hours a day.",
+    "translation": "例如，狮子每天可以睡20个小时。"
+  },
+  {
+    "id": 20,
+    "startTime": 86.44,
+    "endTime": 90.96817204301075,
+    "text": "But what is the slowest moving animal on Earth?",
+    "translation": "但是地球上移动最慢的动物是什么呢？"
+  },
+  {
+    "id": 21,
+    "startTime": 90.96817204301075,
+    "endTime": 98.64,
+    "text": "Is it A, the giant tortoise, B, the three-toed sloth, or C, the koala?",
+    "translation": "是A，巨龟，B，三趾树懒，还是C，考拉？"
+  },
+  {
+    "id": 22,
+    "startTime": 98.64,
+    "endTime": 102.03999999999999,
+    "text": "Well, I think it's the three-toed sloth.",
+    "translation": "我想是三趾树懒。"
+  },
+  {
+    "id": 23,
+    "startTime": 102.03999999999999,
+    "endTime": 102.71862068965517,
+    "text": "OK, Neil.",
+    "translation": "好的，尼尔。"
+  },
+  {
+    "id": 24,
+    "startTime": 102.71862068965517,
+    "endTime": 107.01655172413793,
+    "text": "I'll reveal the correct answer at the end of the program.",
+    "translation": "我会在节目结束时揭示正确答案。"
+  },
+  {
+    "id": 25,
+    "startTime": 107.01655172413793,
+    "endTime": 116.6920481927711,
+    "text": "Now, it's no surprise that lazy lions love relaxing, but even animals with reputations for being busy spend time doing nothing.",
+    "translation": "现在，懒惰的狮子喜欢放松也就不足为奇了，但即使是以忙碌著称的动物也会花时间无所事事。"
+  },
+  {
+    "id": 26,
+    "startTime": 116.6920481927711,
+    "endTime": 124.08000000000001,
+    "text": "Look carefully into an ant's nest, and you'll see around half of them just sitting there motionless.",
+    "translation": "仔细观察一个蚂蚁的巢穴，你会看到大约一半的蚂蚁只是坐在那里一动不动。"
+  },
+  {
+    "id": 27,
+    "startTime": 124.08000000000001,
+    "endTime": 139.36,
+    "text": "Here's Professor Dan Charbonneau, an expert in insect behavior, discussing the lazy rock ant with Emily Knight, presenter of BBC Radio 4 program NatureBang.",
+    "translation": "昆虫行为专家丹·夏博诺教授正在与BBC广播4台节目《自然邦》的主持人艾米丽·奈特讨论懒惰的岩蚁。"
+  },
+  {
+    "id": 28,
+    "startTime": 139.36,
+    "endTime": 144.8,
+    "text": "Dan's research has focused on ant colonies, a species called temnothorax regatilus, or the rock ant.",
+    "translation": "丹的研究重点是蚁群，一种叫做temnothorax regatilus或岩蚁的物种。"
+  },
+  {
+    "id": 29,
+    "startTime": 144.92000000000002,
+    "endTime": 147.21131313131315,
+    "text": "I think ants are sort of a symbol of industriousness.",
+    "translation": "我认为蚂蚁是勤劳的象征。"
+  },
+  {
+    "id": 30,
+    "startTime": 147.21131313131315,
+    "endTime": 151.19565217391306,
+    "text": "They have this whole tiny little society going on that's kind of similar to ours.",
+    "translation": "他们有一个和我们有点像的小社会。"
+  },
+  {
+    "id": 31,
+    "startTime": 151.19565217391306,
+    "endTime": 153.95434782608697,
+    "text": "Some idealized version of what humans might be.",
+    "translation": "人类的理想化版本。"
+  },
+  {
+    "id": 32,
+    "startTime": 153.95434782608697,
+    "endTime": 158.61655172413796,
+    "text": "If we could only pull it together and all work together, we could be as industrious as the ants.",
+    "translation": "如果我们能齐心协力，齐心协力，我们就能像蚂蚁一样勤劳。"
+  },
+  {
+    "id": 33,
+    "startTime": 158.61655172413796,
+    "endTime": 166.4,
+    "text": "But then when you look at it, roughly about half the colony is inactive at any given time.",
+    "translation": "但是当你观察它时，大约一半的群体在任何给定的时间都是不活跃的。"
+  },
+  {
+    "id": 34,
+    "startTime": 166.4,
+    "endTime": 169.85258426966294,
+    "text": "We think ants are industrious or hard-working.",
+    "translation": "我们认为蚂蚁勤劳或努力工作。"
+  },
+  {
+    "id": 35,
+    "startTime": 169.85258426966294,
+    "endTime": 177.60000000000002,
+    "text": "Groups of ants, called colonies, seem tiny, where everyone works hard for the good of the group.",
+    "translation": "被称为蚁群的蚂蚁群体看起来很小，每个人都为群体的利益而努力工作。"
+  },
+  {
+    "id": 36,
+    "startTime": 177.60000000000002,
+    "endTime": 180.34298850574714,
+    "text": "Then why are so many of them inactive?",
+    "translation": "那为什么这么多人不活跃呢？"
+  },
+  {
+    "id": 37,
+    "startTime": 180.34298850574714,
+    "endTime": 187.45200000000003,
+    "text": "One possible answer is that they're reserve ants, ready to step in if disease or disaster strike.",
+    "translation": "一个可能的答案是，它们是后备蚂蚁，随时准备在疾病或灾难来袭时介入。"
+  },
+  {
+    "id": 38,
+    "startTime": 187.45200000000003,
+    "endTime": 192.32048192771086,
+    "text": "But could it simply be that they don't work because they don't need to?",
+    "translation": "但是会不会仅仅是因为他们不需要工作而不工作呢？"
+  },
+  {
+    "id": 39,
+    "startTime": 192.32048192771086,
+    "endTime": 196.64000000000001,
+    "text": "Would you get out of bed on Monday morning if you didn't have to?",
+    "translation": "如果你不必，你会在周一早上起床吗？"
+  },
+  {
+    "id": 40,
+    "startTime": 196.64000000000001,
+    "endTime": 203.60000000000002,
+    "text": "Maybe the ants can teach us a thing or two about relaxing, but wouldn't it get boring just sitting around all day?",
+    "translation": "也许蚂蚁可以教我们一两件关于放松的事情，但是整天坐着不会很无聊吗？"
+  },
+  {
+    "id": 41,
+    "startTime": 203.60000000000002,
+    "endTime": 206.77186813186816,
+    "text": "Not according to psychologist Dr Sandy Mann.",
+    "translation": "心理学家桑迪·曼博士并非如此。"
+  },
+  {
+    "id": 42,
+    "startTime": 206.77186813186816,
+    "endTime": 214.5861904761905,
+    "text": "She thinks being productive, working to produce a lot for the amount of resources we use, is overrated.",
+    "translation": "她认为高效，努力为我们使用的资源量生产大量产品，被高估了。"
+  },
+  {
+    "id": 43,
+    "startTime": 214.5861904761905,
+    "endTime": 222.44,
+    "text": "Boredom has its benefits too, as she explained to BBC Radio 4 programme NatureBang.",
+    "translation": "正如她向 BBC 广播 4 台节目 NatureBang 解释的那样，无聊也有好处。"
+  },
+  {
+    "id": 44,
+    "startTime": 222.44,
+    "endTime": 232.6206896551724,
+    "text": "Would humans have invented bread or beer or fire if we hadn't been bored and were wondering what on earth would happen if we mixed this with this?",
+    "translation": "如果我们没有感到无聊，并想知道如果我们把这个和这个混在一起到底会发生什么，人类会发明面包、啤酒或火吗？"
+  },
+  {
+    "id": 45,
+    "startTime": 232.6206896551724,
+    "endTime": 236.32,
+    "text": "Are all these sorts of inventions the mother of boredom?",
+    "translation": "所有这些发明都是无聊之母吗？"
+  },
+  {
+    "id": 46,
+    "startTime": 236.32,
+    "endTime": 241.51999999999998,
+    "text": "But in this world of constant stimulation, switching off is harder than it's ever been.",
+    "translation": "但是在这个不断刺激的世界里，关掉它比以往任何时候都更难。"
+  },
+  {
+    "id": 47,
+    "startTime": 241.51999999999998,
+    "endTime": 247.97767441860464,
+    "text": "That's why we're constantly swiping and scrolling and looking for the next big thing and the new thing and we get bored of things very quickly.",
+    "translation": "这就是为什么我们不断地滑动和滚动，寻找下一件大事和新事物，我们很快就会对事情感到厌倦。"
+  },
+  {
+    "id": 48,
+    "startTime": 247.97767441860464,
+    "endTime": 253.6,
+    "text": "So it's a kind of paradox to get rid of this unpleasant state of boredom is actually to allow more boredom into your life.",
+    "translation": "因此，摆脱这种令人不快的无聊状态实际上是让更多的无聊进入你的生活，这是一种悖论。"
+  },
+  {
+    "id": 49,
+    "startTime": 254.6,
+    "endTime": 262.0144680851064,
+    "text": "Dr Mann doubts humans would have invented things without the curiosity that comes from being bored.",
+    "translation": "曼恩博士怀疑，如果没有无聊带来的好奇心，人类会发明东西。"
+  },
+  {
+    "id": 50,
+    "startTime": 262.0144680851064,
+    "endTime": 276.28,
+    "text": "Boredom is the mother of invention, an idea based on the famous proverb, necessity is the mother of invention, an idiom meaning that if you really need to do something, you will think of a way of doing it.",
+    "translation": "无聊是发明之母，这个想法基于著名的谚语，必要性是发明之母，一个成语的意思是如果你真的需要做某件事，你就会想办法去做。"
+  },
+  {
+    "id": 51,
+    "startTime": 276.28,
+    "endTime": 285.7667469879519,
+    "text": "Instead of fearing boredom, we can open up to its benefits by switching off, stopping worrying or thinking about something and relaxing.",
+    "translation": "与其害怕无聊，我们可以关掉它，停止担心或思考某件事，放松下来，享受它的好处。"
+  },
+  {
+    "id": 52,
+    "startTime": 285.7667469879519,
+    "endTime": 291.40000000000003,
+    "text": "Slowing down helps too, something we can definitely learn from our animal cousins.",
+    "translation": "慢下来也有帮助，这是我们绝对可以从我们的动物表亲那里学到的。"
+  },
+  {
+    "id": 53,
+    "startTime": 291.40000000000003,
+    "endTime": 296.84000000000003,
+    "text": "I think now is a good time to reveal the answer to my question, since we have nothing else to do.",
+    "translation": "我认为现在是揭示我的问题答案的好时机，因为我们没有其他事情可做。"
+  },
+  {
+    "id": 54,
+    "startTime": 296.84000000000003,
+    "endTime": 302.3466666666667,
+    "text": "You asked me to name the world's slowest animal and I guessed it was the three-toed sloth.",
+    "translation": "你让我说出世界上最慢的动物，我猜是三趾树懒。"
+  },
+  {
+    "id": 55,
+    "startTime": 302.3466666666667,
+    "endTime": 303.6,
+    "text": "Was I right?",
+    "translation": "我说得对吗？"
+  },
+  {
+    "id": 56,
+    "startTime": 303.6,
+    "endTime": 306.03478260869565,
+    "text": "That was the correct answer.",
+    "translation": "这是正确的答案。"
+  },
+  {
+    "id": 57,
+    "startTime": 306.03478260869565,
+    "endTime": 315.8,
+    "text": "With a top speed of 30 centimetres per minute, three-toed sloths move so slowly that algae grows on their coats.",
+    "translation": "三趾树懒的最高速度为每分钟30厘米，移动如此缓慢，以至于藻类在它们的皮毛上生长。"
+  },
+  {
+    "id": 58,
+    "startTime": 315.8,
+    "endTime": 326.36,
+    "text": "OK, let's recap the vocabulary we've learned from this programme, starting with the phrase kicking back, to stop doing things and relax completely.",
+    "translation": "好的，让我们回顾一下我们从这个节目中学到的词汇，从短语kicking back开始，停止做事，完全放松。"
+  },
+  {
+    "id": 59,
+    "startTime": 326.36,
+    "endTime": 330.12,
+    "text": "The adjective industrious means hard working.",
+    "translation": "形容词勤奋的意思是努力工作。"
+  },
+  {
+    "id": 60,
+    "startTime": 330.12,
+    "endTime": 337.12,
+    "text": "A colony is the name given to a group of certain animals, including ants and some seabirds.",
+    "translation": "群体是对一群某些动物的称呼，包括蚂蚁和一些海鸟。"
+  },
+  {
+    "id": 61,
+    "startTime": 337.2,
+    "endTime": 343.32,
+    "text": "One who is productive is able to produce a lot for the amount of resources they use.",
+    "translation": "一个富有成效的人能够为他们使用的资源生产很多东西。"
+  },
+  {
+    "id": 62,
+    "startTime": 343.32,
+    "endTime": 350.92,
+    "text": "The proverb necessity is the mother of invention means that if you really need to do something, you will think of a way of doing it.",
+    "translation": "谚语“必要性是发明之母”的意思是，如果你真的需要做某件事，你就会想办法去做。"
+  },
+  {
+    "id": 63,
+    "startTime": 350.92,
+    "endTime": 357.92,
+    "text": "And finally, to switch off means to stop worrying or thinking about something and relax.",
+    "translation": "最后，关闭意味着停止担心或思考某些事情，放松。"
+  },
+  {
+    "id": 64,
+    "startTime": 357.96,
+    "endTime": 363.68296296296296,
+    "text": "Once again, our six minutes are up, it must be time to sit down, close your eyes and just do nothing.",
+    "translation": "再一次，我们的六分钟到了，必须是时候坐下来，闭上眼睛，什么都不做。"
+  },
+  {
+    "id": 65,
+    "startTime": 363.68296296296296,
+    "endTime": 365.2,
+    "text": "Goodbye for now.",
+    "translation": "暂时再见。"
+  },
+  {
+    "id": 66,
+    "startTime": 365.2,
+    "endTime": 365.96,
+    "text": "Bye.",
+    "translation": "再见。"
+  },
+  {
+    "id": 67,
+    "startTime": 367.12,
+    "endTime": 370.24,
+    "text": "Six Meet English from the BBC.",
+    "translation": "六人遇见英国广播公司的英语。"
+  }
+]

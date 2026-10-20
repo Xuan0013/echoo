@@ -1,0 +1,478 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 0.7101369863013699,
+    "text": "3,000.",
+    "translation": "3,000."
+  },
+  {
+    "id": 1,
+    "startTime": 0.7101369863013699,
+    "endTime": 9.630769230769232,
+    "text": "That is how many words you need to know to understand 95% of spoken English.",
+    "translation": "这就是你需要知道多少单词才能理解95%的英语口语。"
+  },
+  {
+    "id": 2,
+    "startTime": 9.630769230769232,
+    "endTime": 15.327692307692308,
+    "text": "But what is the best way to learn these words?",
+    "translation": "但是学习这些单词的最好方法是什么呢？"
+  },
+  {
+    "id": 3,
+    "startTime": 15.327692307692308,
+    "endTime": 24.801518987341773,
+    "text": "Most people try to learn English with online tutors, memorizing vocabulary lists, or sitting in a classroom for hours.",
+    "translation": "大多数人试图通过在线导师、记忆词汇表或在教室里坐上几个小时来学习英语。"
+  },
+  {
+    "id": 4,
+    "startTime": 24.801518987341773,
+    "endTime": 29.1053164556962,
+    "text": "But these methods are slow, boring, and expensive.",
+    "translation": "但是这些方法缓慢、无聊且昂贵。"
+  },
+  {
+    "id": 5,
+    "startTime": 29.1053164556962,
+    "endTime": 30.96457142857143,
+    "text": "So what's the solution?",
+    "translation": "那么解决办法是什么呢？"
+  },
+  {
+    "id": 6,
+    "startTime": 30.96457142857143,
+    "endTime": 32.71657142857143,
+    "text": "The answer is simple.",
+    "translation": "答案很简单。"
+  },
+  {
+    "id": 7,
+    "startTime": 32.71657142857143,
+    "endTime": 38.166486486486484,
+    "text": "It's comprehensible input as the key driver of language acquisition.",
+    "translation": "可理解输入是语言习得的关键驱动力。"
+  },
+  {
+    "id": 8,
+    "startTime": 38.166486486486484,
+    "endTime": 41.00756756756757,
+    "text": "We acquire language in only one way.",
+    "translation": "我们只有一种方式习得语言。"
+  },
+  {
+    "id": 9,
+    "startTime": 41.00756756756757,
+    "endTime": 46.26724637681159,
+    "text": "When we understand it, most people call that comprehensible input.",
+    "translation": "当我们理解它时，大多数人称之为可理解输入。"
+  },
+  {
+    "id": 10,
+    "startTime": 46.26724637681159,
+    "endTime": 48.78545454545454,
+    "text": "But what is comprehensible input?",
+    "translation": "但是什么是可理解的输入呢？"
+  },
+  {
+    "id": 11,
+    "startTime": 48.78545454545454,
+    "endTime": 50.87532467532468,
+    "text": "Let me show you an example.",
+    "translation": "让我给你举个例子。"
+  },
+  {
+    "id": 12,
+    "startTime": 50.87532467532468,
+    "endTime": 54.23179487179487,
+    "text": "Hello guys, let's go outside, outside.",
+    "translation": "大家好，我们去外面，外面。"
+  },
+  {
+    "id": 13,
+    "startTime": 54.23179487179487,
+    "endTime": 56.31641025641025,
+    "text": "This is a door.",
+    "translation": "这是一扇门。"
+  },
+  {
+    "id": 14,
+    "startTime": 56.31641025641025,
+    "endTime": 59.373846153846145,
+    "text": "I am opening the door.",
+    "translation": "我在开门。"
+  },
+  {
+    "id": 15,
+    "startTime": 59.373846153846145,
+    "endTime": 62.01435897435897,
+    "text": "These are my shoes.",
+    "translation": "这是我的鞋子。"
+  },
+  {
+    "id": 16,
+    "startTime": 62.01435897435897,
+    "endTime": 63.959999999999994,
+    "text": "This is a dog.",
+    "translation": "这是一只狗。"
+  },
+  {
+    "id": 17,
+    "startTime": 63.959999999999994,
+    "endTime": 66.60197530864197,
+    "text": "This is a dog, an animal.",
+    "translation": "这是一只狗，一种动物。"
+  },
+  {
+    "id": 18,
+    "startTime": 66.60197530864197,
+    "endTime": 69.24395061728394,
+    "text": "The dog's color is beige.",
+    "translation": "这只狗的颜色是米色。"
+  },
+  {
+    "id": 19,
+    "startTime": 69.24395061728394,
+    "endTime": 71.4632098765432,
+    "text": "So now we're outside.",
+    "translation": "所以现在我们在外面。"
+  },
+  {
+    "id": 20,
+    "startTime": 71.4632098765432,
+    "endTime": 73.768,
+    "text": "This grass has been cut.",
+    "translation": "这草已经被割过了。"
+  },
+  {
+    "id": 21,
+    "startTime": 73.768,
+    "endTime": 76.456,
+    "text": "This grass has not been cut.",
+    "translation": "这草还没割呢。"
+  },
+  {
+    "id": 22,
+    "startTime": 76.456,
+    "endTime": 79.336,
+    "text": "So you can see the difference.",
+    "translation": "所以你可以看到区别。"
+  },
+  {
+    "id": 23,
+    "startTime": 79.336,
+    "endTime": 81.30358974358974,
+    "text": "This grass is taller.",
+    "translation": "这草更高。"
+  },
+  {
+    "id": 24,
+    "startTime": 81.30358974358974,
+    "endTime": 84.86666666666666,
+    "text": "It's taller and it has not been cut.",
+    "translation": "它更高，而且没有被剪掉。"
+  },
+  {
+    "id": 25,
+    "startTime": 84.86666666666666,
+    "endTime": 87.04410256410256,
+    "text": "This grass is shorter.",
+    "translation": "这草比较矮。"
+  },
+  {
+    "id": 26,
+    "startTime": 87.04410256410256,
+    "endTime": 90.72207792207791,
+    "text": "It's shorter so it has been cut.",
+    "translation": "它更短，所以被剪掉了。"
+  },
+  {
+    "id": 27,
+    "startTime": 90.72207792207791,
+    "endTime": 93.15324675324675,
+    "text": "Now these are trees.",
+    "translation": "现在这些是树。"
+  },
+  {
+    "id": 28,
+    "startTime": 93.15324675324675,
+    "endTime": 95.21974025974026,
+    "text": "These are lemons.",
+    "translation": "这些是柠檬。"
+  },
+  {
+    "id": 29,
+    "startTime": 95.21974025974026,
+    "endTime": 97.16658227848102,
+    "text": "And this is a car.",
+    "translation": "这是一辆车。"
+  },
+  {
+    "id": 30,
+    "startTime": 97.16658227848102,
+    "endTime": 101.19898734177215,
+    "text": "There is someone inside of the car, you see?",
+    "translation": "车里有人，你看到了吗？"
+  },
+  {
+    "id": 31,
+    "startTime": 101.19898734177215,
+    "endTime": 101.84050632911392,
+    "text": "Inside.",
+    "translation": "内部。"
+  },
+  {
+    "id": 32,
+    "startTime": 101.84050632911392,
+    "endTime": 105.02578947368423,
+    "text": "You could also call this a pond.",
+    "translation": "你也可以称之为池塘。"
+  },
+  {
+    "id": 33,
+    "startTime": 105.02578947368423,
+    "endTime": 106.78315789473686,
+    "text": "It's a pond of water.",
+    "translation": "这是一滩水。"
+  },
+  {
+    "id": 34,
+    "startTime": 106.78315789473686,
+    "endTime": 115.45620253164557,
+    "text": "Even if you didn't understand every word I said, your brain is already learning through the visuals, context, and repetition.",
+    "translation": "即使你没有理解我说的每一个字，你的大脑已经在通过视觉、上下文和重复来学习了。"
+  },
+  {
+    "id": 35,
+    "startTime": 115.45620253164557,
+    "endTime": 119.92,
+    "text": "And also you could probably guess what I was talking about based on my actions, right?",
+    "translation": "你也可以根据我的行为猜到我在说什么，对吗？"
+  },
+  {
+    "id": 36,
+    "startTime": 119.92,
+    "endTime": 136.46597402597402,
+    "text": "The comprehensible input learning method is better than other methods because you'll learn vocabulary, pronunciation, listening comprehension skills, grammar and sentence structure, and by far the most important, how to start thinking in English.",
+    "translation": "可理解输入学习方法比其他方法更好，因为你将学习词汇、发音、听力理解技能、语法和句子结构，以及迄今为止最重要的，如何开始用英语思考。"
+  },
+  {
+    "id": 37,
+    "startTime": 136.46597402597402,
+    "endTime": 139.4690909090909,
+    "text": "All without boring lessons and textbooks.",
+    "translation": "没有无聊的课程和教科书。"
+  },
+  {
+    "id": 38,
+    "startTime": 139.4690909090909,
+    "endTime": 150.4505,
+    "text": "So that is why I decided I'm gonna teach you these 3,000 words through real-life vlogs to make learning fun, natural, and way, way less boring.",
+    "translation": "所以这就是为什么我决定通过现实生活中的博客教你这3000个单词，让学习变得有趣、自然，不那么无聊。"
+  },
+  {
+    "id": 39,
+    "startTime": 150.4505,
+    "endTime": 154.7959420289855,
+    "text": "These are real-life vlogs, traveling, and adventures.",
+    "translation": "这些是现实生活中的博客、旅行和冒险。"
+  },
+  {
+    "id": 40,
+    "startTime": 154.7959420289855,
+    "endTime": 158.35999999999999,
+    "text": "All designed to be as interesting as possible to teach you",
+    "translation": "所有的设计都是为了尽可能有趣地教你"
+  },
+  {
+    "id": 41,
+    "startTime": 158.64000000000001,
+    "endTime": 163.4,
+    "text": "English with comprehensible input in a fun way so that it doesn't feel like work.",
+    "translation": "以一种有趣的方式用可理解的方式输入英语，这样就不会感觉像是在工作。"
+  },
+  {
+    "id": 42,
+    "startTime": 163.4,
+    "endTime": 170.38666666666668,
+    "text": "It doesn't feel like you're studying because I want you to stick around until you reach your goals of being fluent in English.",
+    "translation": "这感觉不像你在学习，因为我希望你留下来，直到你达到流利英语的目标。"
+  },
+  {
+    "id": 43,
+    "startTime": 170.38666666666668,
+    "endTime": 179.19950000000003,
+    "text": "Whether you're beginner, intermediate, or advanced, these videos will help you become fluent in English and should be a part of your daily study routine.",
+    "translation": "无论你是初学者、中级还是高级，这些视频都将帮助你精通英语，应该成为你日常学习的一部分。"
+  },
+  {
+    "id": 44,
+    "startTime": 179.19950000000003,
+    "endTime": 193.16,
+    "text": "So the steps you want to follow is first, you want to watch comprehensible input videos like my videos, and as you're watching these videos you want to practice listening comprehension, your pronunciation, you could practice shadowing techniques as",
+    "translation": "所以你要遵循的步骤是，首先，你要观看可理解的输入视频，比如我的视频，当你观看这些视频时，你要练习听力理解，你的发音，你可以练习阴影技术"
+  },
+  {
+    "id": 45,
+    "startTime": 193.16,
+    "endTime": 201.232,
+    "text": "you watch these videos, and also watch out for sentence structure, grammar, and just learn this naturally instead of doing lessons in class.",
+    "translation": "你看这些视频，也注意句子结构，语法，只是自然地学习这些，而不是在课堂上做功课。"
+  },
+  {
+    "id": 46,
+    "startTime": 201.232,
+    "endTime": 205.0005063291139,
+    "text": "The second step is to reinforce this learning you just had in the video.",
+    "translation": "第二步是巩固你刚刚在视频中学到的知识。"
+  },
+  {
+    "id": 47,
+    "startTime": 205.0005063291139,
+    "endTime": 214.14700000000002,
+    "text": "You could use this chat GPT prompt I made for you, it's in the description, and this allows you to just reinforce what you learned in the video so it gives you the definition for the word again.",
+    "translation": "你可以使用我为你制作的这个聊天GPT提示，它在描述中，这允许你强化你在视频中学到的东西，这样它就可以再次给你这个词的定义。"
+  },
+  {
+    "id": 48,
+    "startTime": 214.14700000000002,
+    "endTime": 217.339,
+    "text": "It gives you examples for the past, present, and future.",
+    "translation": "它给了你过去、现在和未来的例子。"
+  },
+  {
+    "id": 49,
+    "startTime": 217.339,
+    "endTime": 229.76000000000002,
+    "text": "It also gives you mini quizzes to ensure you understood everything about that word, and finally it's very customizable so if you want to have different verb tenses you could just ask it to give you different verb tenses for that word, and also it",
+    "translation": "它还为您提供迷你测验，以确保您理解有关该单词的所有内容，最后它是非常可定制的，因此如果您想要不同的动词时态，您可以要求它为您提供该单词的不同动词时态，并且它"
+  },
+  {
+    "id": 50,
+    "startTime": 229.76000000000002,
+    "endTime": 236.90933333333334,
+    "text": "could explain to you just in English or in English and your language or just your language, whatever your level is, and whatever you're comfortable with.",
+    "translation": "我可以只用英语或英语和你的语言或你的语言向你解释，无论你的水平如何，无论你觉得舒服。"
+  },
+  {
+    "id": 51,
+    "startTime": 236.90933333333334,
+    "endTime": 246.88050632911393,
+    "text": "This will really help you solidify your learnings from the comprehensible input video, and on top of that you can just ask it any questions or any confusions you have about anything in English, and it will answer it.",
+    "translation": "这将真正帮助你巩固你从可理解的输入视频中学到的东西，最重要的是，你可以用英语问它任何问题或困惑，它会回答你。"
+  },
+  {
+    "id": 52,
+    "startTime": 246.88050632911393,
+    "endTime": 255.2,
+    "text": "And the third step is more optional, but if you want to remember these words for the long term, especially if you don't have the chance to speak English a lot, you can use an",
+    "translation": "而第三步则更具选择性，但如果你想长期记住这些单词，尤其是如果你没有机会经常说英语，你可以使用"
+  },
+  {
+    "id": 53,
+    "startTime": 255.2,
+    "endTime": 260.152,
+    "text": "SRS software like Enki and put these words into that software to make sure you don't forget them.",
+    "translation": "像Enki这样的SRS软件，把这些单词放进那个软件里，确保你不会忘记它们。"
+  },
+  {
+    "id": 54,
+    "startTime": 260.152,
+    "endTime": 266.5255696202531,
+    "text": "And if you don't want to use an SRS software, you can just simply review the words on your own time whenever you feel you need to revise them.",
+    "translation": "如果你不想使用SRS软件，你可以在自己的时间简单地复习单词。"
+  },
+  {
+    "id": 55,
+    "startTime": 266.5255696202531,
+    "endTime": 270.9877333333334,
+    "text": "And the great thing about this strategy, it's very simple, it's just three steps to follow.",
+    "translation": "这个策略的伟大之处在于，它非常简单，只需遵循三个步骤。"
+  },
+  {
+    "id": 56,
+    "startTime": 270.9877333333334,
+    "endTime": 278.7448101265823,
+    "text": "So in summary, watch comprehensible input videos like mine, use the ChatGBT prompt I gave you in the description to help reinforce what you just learned.",
+    "translation": "所以总而言之，观看像我这样的可理解的输入视频，使用我在描述中给你的ChatGBT提示来帮助巩固你刚刚学到的东西。"
+  },
+  {
+    "id": 57,
+    "startTime": 278.7448101265823,
+    "endTime": 281.96658227848104,
+    "text": "The third step, use an SRS software for long term memorization.",
+    "translation": "第三步，使用SRS软件进行长期记忆。"
+  },
+  {
+    "id": 58,
+    "startTime": 281.96658227848104,
+    "endTime": 283.32512820512824,
+    "text": "I'm talking months and years.",
+    "translation": "我说的是几个月甚至几年。"
+  },
+  {
+    "id": 59,
+    "startTime": 283.32512820512824,
+    "endTime": 292.58736842105264,
+    "text": "And even if you don't follow all the steps, you could just watch the videos and that will still be beneficial for you because it has comprehensible input, which is a great way to learn languages.",
+    "translation": "即使你没有遵循所有的步骤，你也可以只看视频，这仍然对你有益，因为它有可理解的输入，这是学习语言的好方法。"
+  },
+  {
+    "id": 60,
+    "startTime": 292.58736842105264,
+    "endTime": 298.5567567567567,
+    "text": "Comprehensible input videos like this are four times more effective than traditional learning methods.",
+    "translation": "像这样可理解的输入视频比传统学习方法有效四倍。"
+  },
+  {
+    "id": 61,
+    "startTime": 298.5567567567567,
+    "endTime": 306.4629333333333,
+    "text": "This means that my 10 to 15 minute vlog is worth up to one hour of classroom instruction and it's completely free.",
+    "translation": "这意味着我10到15分钟的视频博客抵得上一个小时的课堂教学，而且是完全免费的。"
+  },
+  {
+    "id": 62,
+    "startTime": 306.4629333333333,
+    "endTime": 310.98615384615385,
+    "text": "All I ask is that you please subscribe and share these videos with your friends.",
+    "translation": "我只要求你订阅并与你的朋友分享这些视频。"
+  },
+  {
+    "id": 63,
+    "startTime": 310.98615384615385,
+    "endTime": 314.34000000000003,
+    "text": "And don't forget to turn on notifications so you never miss a vlog.",
+    "translation": "别忘了打开通知，这样你就不会错过任何视频博客。"
+  },
+  {
+    "id": 64,
+    "startTime": 314.34000000000003,
+    "endTime": 319.47076923076924,
+    "text": "If you haven't seen my previous videos, check out this playlist to catch up on the words you've missed.",
+    "translation": "如果你没有看过我以前的视频，看看这个播放列表，补上你错过的单词。"
+  },
+  {
+    "id": 65,
+    "startTime": 319.47076923076924,
+    "endTime": 324.3686486486486,
+    "text": "And if you guys want, you could follow my personal Instagram, VolcaEagle.",
+    "translation": "如果你们愿意，可以关注我的个人Instagram，VolcaEagle。"
+  },
+  {
+    "id": 66,
+    "startTime": 324.3686486486486,
+    "endTime": 327.3424,
+    "text": "And don't forget, you will be fluent one day.",
+    "translation": "别忘了，总有一天你会流利的。"
+  },
+  {
+    "id": 67,
+    "startTime": 327.3424,
+    "endTime": 330.44,
+    "text": "You just have to keep on trying and not give up.",
+    "translation": "你只需要继续努力，不要放弃。"
+  }
+]

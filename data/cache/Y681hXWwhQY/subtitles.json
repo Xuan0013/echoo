@@ -1,0 +1,410 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 1.2981818181818183,
+    "text": "Hello."
+  },
+  {
+    "id": 1,
+    "startTime": 1.2981818181818183,
+    "endTime": 12.332727272727274,
+    "text": "This is 6 Minute English from BBC Learning English."
+  },
+  {
+    "id": 2,
+    "startTime": 12.332727272727274,
+    "endTime": 14.280000000000001,
+    "text": "I'm Beth."
+  },
+  {
+    "id": 3,
+    "startTime": 14.280000000000001,
+    "endTime": 15.155053763440861,
+    "text": "And I'm Neil."
+  },
+  {
+    "id": 4,
+    "startTime": 15.155053763440861,
+    "endTime": 21.03965517241379,
+    "text": "Phew, I've spent a day in meetings, then shopping, then collecting the kids from school."
+  },
+  {
+    "id": 5,
+    "startTime": 21.03965517241379,
+    "endTime": 22.467241379310344,
+    "text": "I'm exhausted, Beth."
+  },
+  {
+    "id": 6,
+    "startTime": 22.467241379310344,
+    "endTime": 24.68,
+    "text": "What have you been doing today?"
+  },
+  {
+    "id": 7,
+    "startTime": 24.68,
+    "endTime": 25.32901408450704,
+    "text": "Not much."
+  },
+  {
+    "id": 8,
+    "startTime": 25.32901408450704,
+    "endTime": 29.8,
+    "text": "Just sitting around, doing nothing, relaxing and kicking back."
+  },
+  {
+    "id": 9,
+    "startTime": 29.8,
+    "endTime": 30.310000000000002,
+    "text": "Lucky you."
+  },
+  {
+    "id": 10,
+    "startTime": 30.310000000000002,
+    "endTime": 31.84,
+    "text": "Don't you have any work to do?"
+  },
+  {
+    "id": 11,
+    "startTime": 31.84,
+    "endTime": 35.60296296296296,
+    "text": "It may not look it, Neil, but I'm actually as busy as a bee."
+  },
+  {
+    "id": 12,
+    "startTime": 35.60296296296296,
+    "endTime": 44.26252873563219,
+    "text": "If you've seen nature documentaries about worker bees flying from flower to flower, you probably think animals are always on the move."
+  },
+  {
+    "id": 13,
+    "startTime": 44.26252873563219,
+    "endTime": 52.8,
+    "text": "But the surprising truth is, away from the cameras, most animals spend most of their time doing absolutely nothing at all."
+  },
+  {
+    "id": 14,
+    "startTime": 52.8,
+    "endTime": 59.744,
+    "text": "In the natural world, where finding food and shelter is hard work, why have some animals evolved to do nothing?"
+  },
+  {
+    "id": 15,
+    "startTime": 59.744,
+    "endTime": 64.89333333333333,
+    "text": "And if it's good enough for animals, would-being-lazy work for humans, too?"
+  },
+  {
+    "id": 16,
+    "startTime": 64.89333333333333,
+    "endTime": 72.88,
+    "text": "That's what we'll be discussing in this program and, as usual, we'll be learning some useful new vocabulary as well."
+  },
+  {
+    "id": 17,
+    "startTime": 72.88,
+    "endTime": 77.37090909090908,
+    "text": "But first, let me work up the energy to ask you a question, Neil."
+  },
+  {
+    "id": 18,
+    "startTime": 77.37090909090908,
+    "endTime": 82.10499999999999,
+    "text": "Of course, some animals have a reputation for lounging about."
+  },
+  {
+    "id": 19,
+    "startTime": 82.10499999999999,
+    "endTime": 86.44,
+    "text": "Lions, for example, can sleep up to 20 hours a day."
+  },
+  {
+    "id": 20,
+    "startTime": 86.44,
+    "endTime": 90.96817204301075,
+    "text": "But what is the slowest moving animal on Earth?"
+  },
+  {
+    "id": 21,
+    "startTime": 90.96817204301075,
+    "endTime": 98.64,
+    "text": "Is it A, the giant tortoise, B, the three-toed sloth, or C, the koala?"
+  },
+  {
+    "id": 22,
+    "startTime": 98.64,
+    "endTime": 102.03999999999999,
+    "text": "Well, I think it's the three-toed sloth."
+  },
+  {
+    "id": 23,
+    "startTime": 102.03999999999999,
+    "endTime": 102.71862068965517,
+    "text": "OK, Neil."
+  },
+  {
+    "id": 24,
+    "startTime": 102.71862068965517,
+    "endTime": 107.01655172413793,
+    "text": "I'll reveal the correct answer at the end of the program."
+  },
+  {
+    "id": 25,
+    "startTime": 107.01655172413793,
+    "endTime": 116.6920481927711,
+    "text": "Now, it's no surprise that lazy lions love relaxing, but even animals with reputations for being busy spend time doing nothing."
+  },
+  {
+    "id": 26,
+    "startTime": 116.6920481927711,
+    "endTime": 124.08000000000001,
+    "text": "Look carefully into an ant's nest, and you'll see around half of them just sitting there motionless."
+  },
+  {
+    "id": 27,
+    "startTime": 124.08000000000001,
+    "endTime": 139.36,
+    "text": "Here's Professor Dan Charbonneau, an expert in insect behavior, discussing the lazy rock ant with Emily Knight, presenter of BBC Radio 4 program NatureBang."
+  },
+  {
+    "id": 28,
+    "startTime": 139.36,
+    "endTime": 144.8,
+    "text": "Dan's research has focused on ant colonies, a species called temnothorax regatilus, or the rock ant."
+  },
+  {
+    "id": 29,
+    "startTime": 144.92000000000002,
+    "endTime": 147.21131313131315,
+    "text": "I think ants are sort of a symbol of industriousness."
+  },
+  {
+    "id": 30,
+    "startTime": 147.21131313131315,
+    "endTime": 151.19565217391306,
+    "text": "They have this whole tiny little society going on that's kind of similar to ours."
+  },
+  {
+    "id": 31,
+    "startTime": 151.19565217391306,
+    "endTime": 153.95434782608697,
+    "text": "Some idealized version of what humans might be."
+  },
+  {
+    "id": 32,
+    "startTime": 153.95434782608697,
+    "endTime": 158.61655172413796,
+    "text": "If we could only pull it together and all work together, we could be as industrious as the ants."
+  },
+  {
+    "id": 33,
+    "startTime": 158.61655172413796,
+    "endTime": 166.4,
+    "text": "But then when you look at it, roughly about half the colony is inactive at any given time."
+  },
+  {
+    "id": 34,
+    "startTime": 166.4,
+    "endTime": 169.85258426966294,
+    "text": "We think ants are industrious or hard-working."
+  },
+  {
+    "id": 35,
+    "startTime": 169.85258426966294,
+    "endTime": 177.60000000000002,
+    "text": "Groups of ants, called colonies, seem tiny, where everyone works hard for the good of the group."
+  },
+  {
+    "id": 36,
+    "startTime": 177.60000000000002,
+    "endTime": 180.34298850574714,
+    "text": "Then why are so many of them inactive?"
+  },
+  {
+    "id": 37,
+    "startTime": 180.34298850574714,
+    "endTime": 187.45200000000003,
+    "text": "One possible answer is that they're reserve ants, ready to step in if disease or disaster strike."
+  },
+  {
+    "id": 38,
+    "startTime": 187.45200000000003,
+    "endTime": 192.32048192771086,
+    "text": "But could it simply be that they don't work because they don't need to?"
+  },
+  {
+    "id": 39,
+    "startTime": 192.32048192771086,
+    "endTime": 196.64000000000001,
+    "text": "Would you get out of bed on Monday morning if you didn't have to?"
+  },
+  {
+    "id": 40,
+    "startTime": 196.64000000000001,
+    "endTime": 203.60000000000002,
+    "text": "Maybe the ants can teach us a thing or two about relaxing, but wouldn't it get boring just sitting around all day?"
+  },
+  {
+    "id": 41,
+    "startTime": 203.60000000000002,
+    "endTime": 206.77186813186816,
+    "text": "Not according to psychologist Dr Sandy Mann."
+  },
+  {
+    "id": 42,
+    "startTime": 206.77186813186816,
+    "endTime": 214.5861904761905,
+    "text": "She thinks being productive, working to produce a lot for the amount of resources we use, is overrated."
+  },
+  {
+    "id": 43,
+    "startTime": 214.5861904761905,
+    "endTime": 222.44,
+    "text": "Boredom has its benefits too, as she explained to BBC Radio 4 programme NatureBang."
+  },
+  {
+    "id": 44,
+    "startTime": 222.44,
+    "endTime": 232.6206896551724,
+    "text": "Would humans have invented bread or beer or fire if we hadn't been bored and were wondering what on earth would happen if we mixed this with this?"
+  },
+  {
+    "id": 45,
+    "startTime": 232.6206896551724,
+    "endTime": 236.32,
+    "text": "Are all these sorts of inventions the mother of boredom?"
+  },
+  {
+    "id": 46,
+    "startTime": 236.32,
+    "endTime": 241.51999999999998,
+    "text": "But in this world of constant stimulation, switching off is harder than it's ever been."
+  },
+  {
+    "id": 47,
+    "startTime": 241.51999999999998,
+    "endTime": 247.97767441860464,
+    "text": "That's why we're constantly swiping and scrolling and looking for the next big thing and the new thing and we get bored of things very quickly."
+  },
+  {
+    "id": 48,
+    "startTime": 247.97767441860464,
+    "endTime": 253.6,
+    "text": "So it's a kind of paradox to get rid of this unpleasant state of boredom is actually to allow more boredom into your life."
+  },
+  {
+    "id": 49,
+    "startTime": 254.6,
+    "endTime": 262.0144680851064,
+    "text": "Dr Mann doubts humans would have invented things without the curiosity that comes from being bored."
+  },
+  {
+    "id": 50,
+    "startTime": 262.0144680851064,
+    "endTime": 276.28,
+    "text": "Boredom is the mother of invention, an idea based on the famous proverb, necessity is the mother of invention, an idiom meaning that if you really need to do something, you will think of a way of doing it."
+  },
+  {
+    "id": 51,
+    "startTime": 276.28,
+    "endTime": 285.7667469879519,
+    "text": "Instead of fearing boredom, we can open up to its benefits by switching off, stopping worrying or thinking about something and relaxing."
+  },
+  {
+    "id": 52,
+    "startTime": 285.7667469879519,
+    "endTime": 291.40000000000003,
+    "text": "Slowing down helps too, something we can definitely learn from our animal cousins."
+  },
+  {
+    "id": 53,
+    "startTime": 291.40000000000003,
+    "endTime": 296.84000000000003,
+    "text": "I think now is a good time to reveal the answer to my question, since we have nothing else to do."
+  },
+  {
+    "id": 54,
+    "startTime": 296.84000000000003,
+    "endTime": 302.3466666666667,
+    "text": "You asked me to name the world's slowest animal and I guessed it was the three-toed sloth."
+  },
+  {
+    "id": 55,
+    "startTime": 302.3466666666667,
+    "endTime": 303.6,
+    "text": "Was I right?"
+  },
+  {
+    "id": 56,
+    "startTime": 303.6,
+    "endTime": 306.03478260869565,
+    "text": "That was the correct answer."
+  },
+  {
+    "id": 57,
+    "startTime": 306.03478260869565,
+    "endTime": 315.8,
+    "text": "With a top speed of 30 centimetres per minute, three-toed sloths move so slowly that algae grows on their coats."
+  },
+  {
+    "id": 58,
+    "startTime": 315.8,
+    "endTime": 326.36,
+    "text": "OK, let's recap the vocabulary we've learned from this programme, starting with the phrase kicking back, to stop doing things and relax completely."
+  },
+  {
+    "id": 59,
+    "startTime": 326.36,
+    "endTime": 330.12,
+    "text": "The adjective industrious means hard working."
+  },
+  {
+    "id": 60,
+    "startTime": 330.12,
+    "endTime": 337.12,
+    "text": "A colony is the name given to a group of certain animals, including ants and some seabirds."
+  },
+  {
+    "id": 61,
+    "startTime": 337.2,
+    "endTime": 343.32,
+    "text": "One who is productive is able to produce a lot for the amount of resources they use."
+  },
+  {
+    "id": 62,
+    "startTime": 343.32,
+    "endTime": 350.92,
+    "text": "The proverb necessity is the mother of invention means that if you really need to do something, you will think of a way of doing it."
+  },
+  {
+    "id": 63,
+    "startTime": 350.92,
+    "endTime": 357.92,
+    "text": "And finally, to switch off means to stop worrying or thinking about something and relax."
+  },
+  {
+    "id": 64,
+    "startTime": 357.96,
+    "endTime": 363.68296296296296,
+    "text": "Once again, our six minutes are up, it must be time to sit down, close your eyes and just do nothing."
+  },
+  {
+    "id": 65,
+    "startTime": 363.68296296296296,
+    "endTime": 365.2,
+    "text": "Goodbye for now."
+  },
+  {
+    "id": 66,
+    "startTime": 365.2,
+    "endTime": 365.96,
+    "text": "Bye."
+  },
+  {
+    "id": 67,
+    "startTime": 367.12,
+    "endTime": 370.24,
+    "text": "Six Meet English from the BBC."
+  }
+]

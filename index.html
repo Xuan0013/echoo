@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Echoo - AI Shadowing Practice</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/gilroy" rel="stylesheet">
+    <style>
+      /* 全局字体设置：英文使用 Inter，中文使用 风雨苹方 */
+      html, body, * {
+        font-family: 'Inter', '风雨苹方', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Microsoft YaHei', sans-serif;
+      }
+      
+      /* Gilroy 字体类 */
+      .font-gilroy {
+        font-family: 'Gilroy', 'Inter', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Microsoft YaHei', sans-serif;
+      }
+      
+      /* OktahRound-Book 字体 */
+      @font-face {
+        font-family: 'OktahRound-Book';
+        src: url('/fonts/OktahRound-Book.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      
+      /* OktahRound-Book 字体类 */
+      .font-oktah {
+        font-family: 'OktahRound-Book', 'Inter', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Microsoft YaHei', sans-serif;
+      }
+      
+      /* Orchid 字体（用于首页 Shadowing 文案） */
+      @font-face {
+        font-family: 'Orchid';
+        src: url('/fonts/Orchid.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      .font-orchid {
+        font-family: 'Orchid', 'Inter', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Microsoft YaHei', sans-serif;
+      }
+
+      /* 风雨苹方 字体 */
+      @font-face {
+        font-family: '风雨苹方';
+        src: url('/fonts/风雨苹方.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      
+      /* 风雨苹方 字体类 */
+      .font-fengyu {
+        font-family: '风雨苹方', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Microsoft YaHei', sans-serif;
+      }
+      
+      /* 淡奶油南瓜蛋糕主题配色 */
+      :root {
+        --primary: #ef9b59;      /* 主色：淡橙色 */
+        --primary-light: #f5b882; /* 主色浅色 */
+        --primary-dark: #d8873f;  /* 主色深色 */
+        --accent: #fee785;        /* 淡黄色背景 */
+        --accent-light: #fef5c7;  /* 淡黄色浅色 */
+        --secondary: #885d9d;     /* 紫色辅助色 */
+        --secondary-light: #a67db5; /* 紫色浅色 */
+        --text-dark: #1e0411;     /* 深棕色文字 */
+        --text-medium: #4a2c3a;    /* 中等棕色文字 */
+        --border: #e8d4c0;        /* 淡橙色边框 */
+        --bg-cream: #fef9f0;      /* 奶油色背景 */
+      }
+      
+      body {
+        background-color: #ffffff;
+      }
+      
+      /* Custom scrollbar for subtitle list */
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 6px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background-color: var(--border);
+        border-radius: 20px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background-color: var(--primary);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.1/",
+    "react": "https://aistudiocdn.com/react@^19.2.1",
+    "react/": "https://aistudiocdn.com/react@^19.2.1/"
+  }
+}
+</script>
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>

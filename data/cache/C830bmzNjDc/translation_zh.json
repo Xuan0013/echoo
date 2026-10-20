@@ -1,0 +1,569 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 10.174857142857144,
+    "text": "Hello, this is 6 Minute English from BBC Learning English.",
+    "translation": "你好，这是BBC学习英语的6分钟英语。"
+  },
+  {
+    "id": 1,
+    "startTime": 10.174857142857144,
+    "endTime": 12.280000000000001,
+    "text": "I'm Georgie.",
+    "translation": "我是乔治。"
+  },
+  {
+    "id": 2,
+    "startTime": 12.280000000000001,
+    "endTime": 13.08810810810811,
+    "text": "And I'm Phil.",
+    "translation": "我是菲尔。"
+  },
+  {
+    "id": 3,
+    "startTime": 13.08810810810811,
+    "endTime": 15.698918918918919,
+    "text": "Did you have any breakfast today, Georgie?",
+    "translation": "你今天吃早餐了吗，乔治？"
+  },
+  {
+    "id": 4,
+    "startTime": 15.698918918918919,
+    "endTime": 16.88,
+    "text": "Or did you skip it?",
+    "translation": "还是你跳过了？"
+  },
+  {
+    "id": 5,
+    "startTime": 16.88,
+    "endTime": 18.73287356321839,
+    "text": "I did have some breakfast.",
+    "translation": "我确实吃了一些早餐。"
+  },
+  {
+    "id": 6,
+    "startTime": 18.73287356321839,
+    "endTime": 23.080000000000002,
+    "text": "On the way to the office, I got myself a pastry and a coffee.",
+    "translation": "在去办公室的路上，我给自己买了一个糕点和一杯咖啡。"
+  },
+  {
+    "id": 7,
+    "startTime": 23.080000000000002,
+    "endTime": 24.08,
+    "text": "What about you?",
+    "translation": "你呢？"
+  },
+  {
+    "id": 8,
+    "startTime": 24.08,
+    "endTime": 30.759999999999998,
+    "text": "I had a big bowl of porridge, but it was at 6 o'clock this morning, so I'm hungry again now.",
+    "translation": "我喝了一大碗粥，但是是今天早上6点，所以我现在又饿了。"
+  },
+  {
+    "id": 9,
+    "startTime": 30.759999999999998,
+    "endTime": 36.869803921568625,
+    "text": "And you might soon be hungry as well, because we're going to talk about breakfast.",
+    "translation": "你可能很快也会饿了，因为我们要谈论早餐。"
+  },
+  {
+    "id": 10,
+    "startTime": 36.869803921568625,
+    "endTime": 38.36,
+    "text": "How important is it?",
+    "translation": "有多重要？"
+  },
+  {
+    "id": 11,
+    "startTime": 38.36,
+    "endTime": 43.44,
+    "text": "Let's start by hearing from Professor Alexandra Johnston, a nutrition scientist who spoke to",
+    "translation": "让我们先来听听营养学家亚历山德拉·约翰斯顿教授的讲话。"
+  },
+  {
+    "id": 12,
+    "startTime": 43.44,
+    "endTime": 49.32,
+    "text": "Ruth Alexander, host of BBC World Service programme, The Food Chain.",
+    "translation": "露丝·亚历山大，BBC世界服务节目《食物链》的主持人。"
+  },
+  {
+    "id": 13,
+    "startTime": 49.32,
+    "endTime": 54.6,
+    "text": "I am supporting the meme breakfast like a king and dine like a pauper.",
+    "translation": "我支持像国王一样吃早餐，像乞丐一样用餐。"
+  },
+  {
+    "id": 14,
+    "startTime": 54.6,
+    "endTime": 58.4,
+    "text": "For you then, breakfast is the most important meal of the day.",
+    "translation": "对你来说，早餐是一天中最重要的一餐。"
+  },
+  {
+    "id": 15,
+    "startTime": 58.4,
+    "endTime": 58.95762376237624,
+    "text": "I agree.",
+    "translation": "我同意。"
+  },
+  {
+    "id": 16,
+    "startTime": 58.95762376237624,
+    "endTime": 68.08,
+    "text": "So it's really important, particularly for people who are trying to maintain a healthy weight and people who are trying to lose weight.",
+    "translation": "所以这真的很重要，尤其是对那些试图保持健康体重的人和那些试图减肥的人来说。"
+  },
+  {
+    "id": 17,
+    "startTime": 68.08,
+    "endTime": 73.48,
+    "text": "Alexandra says that you should breakfast like a king and dine like a pauper.",
+    "translation": "亚历山德拉说你应该像国王一样吃早餐，像乞丐一样用餐。"
+  },
+  {
+    "id": 18,
+    "startTime": 73.48,
+    "endTime": 77.17827586206897,
+    "text": "Pauper is an old-fashioned word for a very poor person.",
+    "translation": "穷人是一个老式的词，用来形容非常贫穷的人。"
+  },
+  {
+    "id": 19,
+    "startTime": 77.17827586206897,
+    "endTime": 81.28,
+    "text": "The expression means have a big breakfast and a small dinner.",
+    "translation": "这个表达的意思是吃一顿丰盛的早餐和一顿小小的晚餐。"
+  },
+  {
+    "id": 20,
+    "startTime": 81.28,
+    "endTime": 86.64,
+    "text": "We're going to find out some of the reasons that Alexandra and other experts recommend doing this.",
+    "translation": "我们将找出亚历山德拉和其他专家建议这样做的一些原因。"
+  },
+  {
+    "id": 21,
+    "startTime": 86.64,
+    "endTime": 90.52000000000001,
+    "text": "And as usual, we'll learn some useful new words and phrases.",
+    "translation": "像往常一样，我们将学习一些有用的新单词和短语。"
+  },
+  {
+    "id": 22,
+    "startTime": 90.52000000000001,
+    "endTime": 97.83831578947368,
+    "text": "And remember, you'll find all the vocabulary and a quiz on our website, bbclearningenglish.",
+    "translation": "记住，你可以在我们的网站bbclearningenglish上找到所有的词汇和测验。"
+  },
+  {
+    "id": 23,
+    "startTime": 97.83831578947368,
+    "endTime": 98.16,
+    "text": "com.",
+    "translation": "com。"
+  },
+  {
+    "id": 24,
+    "startTime": 98.16,
+    "endTime": 101.3984,
+    "text": "OK, but first I have a question for you, Phil.",
+    "translation": "好吧，但首先我有个问题要问你，菲尔。"
+  },
+  {
+    "id": 25,
+    "startTime": 101.3984,
+    "endTime": 107.67999999999999,
+    "text": "According to a recent survey, which of the following is the most popular breakfast in the UK?",
+    "translation": "根据最近的一项调查，以下哪一种是英国最受欢迎的早餐？"
+  },
+  {
+    "id": 26,
+    "startTime": 107.67999999999999,
+    "endTime": 113.12,
+    "text": "Is it A, eggs, B, toast, or C, cereal?",
+    "translation": "是A，鸡蛋，B，烤面包，还是C，麦片？"
+  },
+  {
+    "id": 27,
+    "startTime": 113.12,
+    "endTime": 118.16,
+    "text": "Well, I think people like to keep it simple, so I'm going to say toast.",
+    "translation": "嗯，我想人们喜欢保持简单，所以我要干杯。"
+  },
+  {
+    "id": 28,
+    "startTime": 118.16,
+    "endTime": 121.67999999999999,
+    "text": "OK, well, we'll find out the answer later in the programme.",
+    "translation": "好吧，好吧，我们会在节目后面找到答案。"
+  },
+  {
+    "id": 29,
+    "startTime": 121.67999999999999,
+    "endTime": 125.84,
+    "text": "Let's hear some reasons for why we should breakfast like a king or queen.",
+    "translation": "让我们听听为什么我们应该像国王或王后一样吃早餐的一些理由。"
+  },
+  {
+    "id": 30,
+    "startTime": 125.84,
+    "endTime": 136.32,
+    "text": "Courtney Peterson, who researches eating behaviours, explains how the time of day affects how our bodies process food on BBC World's service programme, The Food Chain.",
+    "translation": "研究饮食行为的考特尼·彼得森在BBC世界的服务节目《食物链》中解释了一天中的时间如何影响我们的身体处理食物的方式。"
+  },
+  {
+    "id": 31,
+    "startTime": 136.32,
+    "endTime": 146.16,
+    "text": "And so if you can eat a large breakfast in the morning and or I would even say a large lunch in the morning, your body's going to be better at metabolising that food.",
+    "translation": "因此，如果你能在早上吃一顿丰盛的早餐，或者我甚至会说早上吃一顿丰盛的午餐，你的身体会更好地代谢这些食物。"
+  },
+  {
+    "id": 32,
+    "startTime": 146.16,
+    "endTime": 151,
+    "text": "And what that means is your body's going to actually your blood sugar levels won't spike as high.",
+    "translation": "这意味着你的身体实际上不会让你的血糖水平飙升那么高。"
+  },
+  {
+    "id": 33,
+    "startTime": 151,
+    "endTime": 152.92,
+    "text": "You might burn slightly more fat.",
+    "translation": "你可能会燃烧更多的脂肪。"
+  },
+  {
+    "id": 34,
+    "startTime": 152.92,
+    "endTime": 156.56,
+    "text": "You might burn slightly more calories from eating earlier in the day.",
+    "translation": "你可能会因为一天中早些时候吃东西而燃烧更多的卡路里。"
+  },
+  {
+    "id": 35,
+    "startTime": 156.56,
+    "endTime": 161.92,
+    "text": "Whereas if you had, if you eat most of your food later in the day, your metabolism is actually slower later in the day.",
+    "translation": "然而，如果你有，如果你在一天中晚些时候吃了大部分食物，你的新陈代谢实际上会在一天中晚些时候变慢。"
+  },
+  {
+    "id": 36,
+    "startTime": 161.92,
+    "endTime": 172.92000000000002,
+    "text": "So for instance, if you ate the same, I don't know, bowl of ice cream in the morning, the afternoon in the evening, your blood sugar levels will spike significantly higher in the afternoon in the evening.",
+    "translation": "例如，如果你早上吃同样的，我不知道，一碗冰淇淋，下午在晚上，你的血糖水平会在下午和晚上明显升高。"
+  },
+  {
+    "id": 37,
+    "startTime": 172.92000000000002,
+    "endTime": 174.96,
+    "text": "We heard the noun metabolism.",
+    "translation": "我们听到了新陈代谢这个名词。"
+  },
+  {
+    "id": 38,
+    "startTime": 174.96,
+    "endTime": 179.08,
+    "text": "This is a word that refers to the chemical processes in your body.",
+    "translation": "这个词指的是你体内的化学过程。"
+  },
+  {
+    "id": 39,
+    "startTime": 179.16000000000003,
+    "endTime": 183.92000000000002,
+    "text": "And we most often use it to talk about those that convert food into energy.",
+    "translation": "我们最常用它来谈论那些将食物转化为能量的人。"
+  },
+  {
+    "id": 40,
+    "startTime": 183.92000000000002,
+    "endTime": 187.48000000000002,
+    "text": "And we also heard the verb form metabolise.",
+    "translation": "我们还听到了动词形式新陈代谢。"
+  },
+  {
+    "id": 41,
+    "startTime": 187.48000000000002,
+    "endTime": 190.72000000000003,
+    "text": "Courtney talked about blood sugar levels spiking.",
+    "translation": "考特尼谈到了血糖水平飙升。"
+  },
+  {
+    "id": 42,
+    "startTime": 190.72000000000003,
+    "endTime": 193.12,
+    "text": "A spike is a sharp pointed shape.",
+    "translation": "尖刺是一种尖锐的形状。"
+  },
+  {
+    "id": 43,
+    "startTime": 193.12,
+    "endTime": 197.48000000000002,
+    "text": "If you see it on a line graph, it means that something has increased very rapidly.",
+    "translation": "如果你在折线图上看到它，这意味着某些东西增加得非常快。"
+  },
+  {
+    "id": 44,
+    "startTime": 197.48000000000002,
+    "endTime": 202.72000000000003,
+    "text": "We often use the noun spike to mean a sudden increase in a value that is being measured.",
+    "translation": "我们经常使用名词spike来表示正在测量的值的突然增加。"
+  },
+  {
+    "id": 45,
+    "startTime": 202.72000000000003,
+    "endTime": 205.92,
+    "text": "The verb spike means to suddenly increase.",
+    "translation": "动词spike的意思是突然增加。"
+  },
+  {
+    "id": 46,
+    "startTime": 205.92,
+    "endTime": 210.11999999999998,
+    "text": "We've heard that eating earlier in the day can be healthier for us.",
+    "translation": "我们听说一天中早点吃东西对我们更健康。"
+  },
+  {
+    "id": 47,
+    "startTime": 210.11999999999998,
+    "endTime": 217.35999999999999,
+    "text": "Now, people often don't eat breakfast, sometimes because they don't have time, sometimes because they're trying to save money.",
+    "translation": "现在，人们经常不吃早餐，有时是因为他们没有时间，有时是因为他们试图省钱。"
+  },
+  {
+    "id": 48,
+    "startTime": 217.35999999999999,
+    "endTime": 224.35999999999999,
+    "text": "Let's hear again from Professor Alexandra Johnston talking to BBC World Services, The Food Chain.",
+    "translation": "让我们再次听听亚历山德拉·约翰斯顿教授对BBC世界服务，食物链的采访。"
+  },
+  {
+    "id": 49,
+    "startTime": 224.35999999999999,
+    "endTime": 244.88,
+    "text": "Now, breakfast skipping is interesting because my own work would tend to suggest that sort of observational large-scale epidemiological studies would also support this, that people who have a regular breakfast are actually leaner.",
+    "translation": "现在，不吃早餐很有趣，因为我自己的工作倾向于表明，那种观察性的大规模流行病学研究也会支持这一点，吃规律早餐的人实际上更瘦。"
+  },
+  {
+    "id": 50,
+    "startTime": 244.88,
+    "endTime": 264.24,
+    "text": "And my own work would tend to suggest that having your largest meal of the day in the morning period gives you a much better appetite control, which then means it's much easier to control food intake later in the day.",
+    "translation": "我自己的研究倾向于表明，在早上吃一天中最大的一餐可以让你更好地控制食欲，这意味着在一天中晚些时候更容易控制食物摄入量。"
+  },
+  {
+    "id": 51,
+    "startTime": 264.24,
+    "endTime": 267.56,
+    "text": "Alexandra starts by mentioning breakfast skipping.",
+    "translation": "亚历山德拉首先提到了不吃早餐。"
+  },
+  {
+    "id": 52,
+    "startTime": 267.56,
+    "endTime": 270.2,
+    "text": "If you skip something, then you don't do it.",
+    "translation": "如果你跳过了某件事，那么你就不会去做。"
+  },
+  {
+    "id": 53,
+    "startTime": 270.2,
+    "endTime": 273.52,
+    "text": "Bad students might skip lessons, they don't go to them.",
+    "translation": "坏学生可能会逃课，他们不去上课。"
+  },
+  {
+    "id": 54,
+    "startTime": 273.52,
+    "endTime": 276.52,
+    "text": "If you skip a meal, it means that you don't eat it.",
+    "translation": "如果你不吃饭，就意味着你不吃。"
+  },
+  {
+    "id": 55,
+    "startTime": 276.52,
+    "endTime": 281.4,
+    "text": "We also heard that people who have a regular breakfast are leaner.",
+    "translation": "我们还听说经常吃早餐的人更瘦。"
+  },
+  {
+    "id": 56,
+    "startTime": 281.4,
+    "endTime": 284.56,
+    "text": "If someone is lean, then they're not fat.",
+    "translation": "如果有人很瘦，那么他们就不胖。"
+  },
+  {
+    "id": 57,
+    "startTime": 284.56,
+    "endTime": 290.12,
+    "text": "And one of the reasons given why people might be leaner is that they have better appetite control.",
+    "translation": "人们可能更瘦的原因之一是他们有更好的食欲控制。"
+  },
+  {
+    "id": 58,
+    "startTime": 290.12,
+    "endTime": 294.08,
+    "text": "Appetite control is where your brain decides how much you should eat.",
+    "translation": "食欲控制是你的大脑决定你应该吃多少。"
+  },
+  {
+    "id": 59,
+    "startTime": 294.08,
+    "endTime": 295.15999999999997,
+    "text": "Thanks, Georgie.",
+    "translation": "谢谢，乔治。"
+  },
+  {
+    "id": 60,
+    "startTime": 295.15999999999997,
+    "endTime": 298.84,
+    "text": "Now, I think it's time that we heard the answer to your question.",
+    "translation": "现在，我想是时候让我们听听你问题的答案了。"
+  },
+  {
+    "id": 61,
+    "startTime": 298.84,
+    "endTime": 300.2,
+    "text": "Yes, it is.",
+    "translation": "是的，是的。"
+  },
+  {
+    "id": 62,
+    "startTime": 300.2,
+    "endTime": 306.79999999999995,
+    "text": "OK, I asked, according to a recent survey, what is the most popular breakfast in the UK?",
+    "translation": "好吧，我问，根据最近的一项调查，英国最受欢迎的早餐是什么？"
+  },
+  {
+    "id": 63,
+    "startTime": 306.79999999999995,
+    "endTime": 308.79999999999995,
+    "text": "And I said toast.",
+    "translation": "我说干杯。"
+  },
+  {
+    "id": 64,
+    "startTime": 308.84000000000003,
+    "endTime": 315.92,
+    "text": "Which was the most popular in London, but the most popular in the country as a whole was cereal.",
+    "translation": "这是伦敦最受欢迎的，但整个国家最受欢迎的是谷类食品。"
+  },
+  {
+    "id": 65,
+    "startTime": 315.92,
+    "endTime": 319.2,
+    "text": "And that's according to a survey by a cereal manufacturer.",
+    "translation": "这是根据一家谷物制造商的调查得出的。"
+  },
+  {
+    "id": 66,
+    "startTime": 319.2,
+    "endTime": 320.88,
+    "text": "So I'm afraid you got it wrong.",
+    "translation": "所以恐怕你搞错了。"
+  },
+  {
+    "id": 67,
+    "startTime": 320.88,
+    "endTime": 328,
+    "text": "OK, let's recap the vocabulary we've learned starting with pauper, which is an old-fashioned word for a very poor person.",
+    "translation": "好的，让我们从pouper开始回顾一下我们学过的词汇，pouper是一个非常贫穷的人的老式词。"
+  },
+  {
+    "id": 68,
+    "startTime": 328,
+    "endTime": 332.64,
+    "text": "When we're talking about data, it spikes when it increases suddenly.",
+    "translation": "当我们谈论数据时，当它突然增加时，它会激增。"
+  },
+  {
+    "id": 69,
+    "startTime": 332.64,
+    "endTime": 338.64,
+    "text": "Metabolism refers to the chemical processes inside your body, especially those which process food.",
+    "translation": "新陈代谢是指你体内的化学过程，尤其是那些处理食物的过程。"
+  },
+  {
+    "id": 70,
+    "startTime": 338.68,
+    "endTime": 341.31529411764706,
+    "text": "If you skip something, you miss it.",
+    "translation": "如果你跳过了什么，你就会错过它。"
+  },
+  {
+    "id": 71,
+    "startTime": 341.31529411764706,
+    "endTime": 342.52,
+    "text": "You don't do it.",
+    "translation": "你不做。"
+  },
+  {
+    "id": 72,
+    "startTime": 342.52,
+    "endTime": 345,
+    "text": "If someone is lean, then they are not fat.",
+    "translation": "如果有人瘦，那么他们就不胖。"
+  },
+  {
+    "id": 73,
+    "startTime": 345,
+    "endTime": 350.96,
+    "text": "And finally, appetite control is how your brain decides how much you should eat.",
+    "translation": "最后，食欲控制是你的大脑决定你应该吃多少的方式。"
+  },
+  {
+    "id": 74,
+    "startTime": 350.96,
+    "endTime": 357.5562886597938,
+    "text": "Once again, our six minutes are up, but why not head over to our website, bbclearningenglish.",
+    "translation": "再一次，我们的六分钟到了，但是为什么不去我们的网站bbclearningenglish呢？"
+  },
+  {
+    "id": 75,
+    "startTime": 357.5562886597938,
+    "endTime": 361.47999999999996,
+    "text": "com, to try the quiz and worksheet for this episode.",
+    "translation": "com，尝试这一集的测验和工作表。"
+  },
+  {
+    "id": 76,
+    "startTime": 361.47999999999996,
+    "endTime": 362.59999999999997,
+    "text": "See you again soon.",
+    "translation": "很快再见。"
+  },
+  {
+    "id": 77,
+    "startTime": 362.59999999999997,
+    "endTime": 363.47999999999996,
+    "text": "Goodbye.",
+    "translation": "再见。"
+  },
+  {
+    "id": 78,
+    "startTime": 363.47999999999996,
+    "endTime": 364.64,
+    "text": "Bye.",
+    "translation": "再见。"
+  },
+  {
+    "id": 79,
+    "startTime": 368.64,
+    "endTime": 370.36727272727273,
+    "text": "bbclearningenglish.",
+    "translation": "bbclearningenglish。"
+  },
+  {
+    "id": 80,
+    "startTime": 370.36727272727273,
+    "endTime": 370.64,
+    "text": "com",
+    "translation": "与"
+  }
+]

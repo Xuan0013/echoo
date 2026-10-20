@@ -1,0 +1,410 @@
+[
+  {
+    "id": 0,
+    "startTime": 0,
+    "endTime": 0.7101369863013699,
+    "text": "3,000."
+  },
+  {
+    "id": 1,
+    "startTime": 0.7101369863013699,
+    "endTime": 9.630769230769232,
+    "text": "That is how many words you need to know to understand 95% of spoken English."
+  },
+  {
+    "id": 2,
+    "startTime": 9.630769230769232,
+    "endTime": 15.327692307692308,
+    "text": "But what is the best way to learn these words?"
+  },
+  {
+    "id": 3,
+    "startTime": 15.327692307692308,
+    "endTime": 24.801518987341773,
+    "text": "Most people try to learn English with online tutors, memorizing vocabulary lists, or sitting in a classroom for hours."
+  },
+  {
+    "id": 4,
+    "startTime": 24.801518987341773,
+    "endTime": 29.1053164556962,
+    "text": "But these methods are slow, boring, and expensive."
+  },
+  {
+    "id": 5,
+    "startTime": 29.1053164556962,
+    "endTime": 30.96457142857143,
+    "text": "So what's the solution?"
+  },
+  {
+    "id": 6,
+    "startTime": 30.96457142857143,
+    "endTime": 32.71657142857143,
+    "text": "The answer is simple."
+  },
+  {
+    "id": 7,
+    "startTime": 32.71657142857143,
+    "endTime": 38.166486486486484,
+    "text": "It's comprehensible input as the key driver of language acquisition."
+  },
+  {
+    "id": 8,
+    "startTime": 38.166486486486484,
+    "endTime": 41.00756756756757,
+    "text": "We acquire language in only one way."
+  },
+  {
+    "id": 9,
+    "startTime": 41.00756756756757,
+    "endTime": 46.26724637681159,
+    "text": "When we understand it, most people call that comprehensible input."
+  },
+  {
+    "id": 10,
+    "startTime": 46.26724637681159,
+    "endTime": 48.78545454545454,
+    "text": "But what is comprehensible input?"
+  },
+  {
+    "id": 11,
+    "startTime": 48.78545454545454,
+    "endTime": 50.87532467532468,
+    "text": "Let me show you an example."
+  },
+  {
+    "id": 12,
+    "startTime": 50.87532467532468,
+    "endTime": 54.23179487179487,
+    "text": "Hello guys, let's go outside, outside."
+  },
+  {
+    "id": 13,
+    "startTime": 54.23179487179487,
+    "endTime": 56.31641025641025,
+    "text": "This is a door."
+  },
+  {
+    "id": 14,
+    "startTime": 56.31641025641025,
+    "endTime": 59.373846153846145,
+    "text": "I am opening the door."
+  },
+  {
+    "id": 15,
+    "startTime": 59.373846153846145,
+    "endTime": 62.01435897435897,
+    "text": "These are my shoes."
+  },
+  {
+    "id": 16,
+    "startTime": 62.01435897435897,
+    "endTime": 63.959999999999994,
+    "text": "This is a dog."
+  },
+  {
+    "id": 17,
+    "startTime": 63.959999999999994,
+    "endTime": 66.60197530864197,
+    "text": "This is a dog, an animal."
+  },
+  {
+    "id": 18,
+    "startTime": 66.60197530864197,
+    "endTime": 69.24395061728394,
+    "text": "The dog's color is beige."
+  },
+  {
+    "id": 19,
+    "startTime": 69.24395061728394,
+    "endTime": 71.4632098765432,
+    "text": "So now we're outside."
+  },
+  {
+    "id": 20,
+    "startTime": 71.4632098765432,
+    "endTime": 73.768,
+    "text": "This grass has been cut."
+  },
+  {
+    "id": 21,
+    "startTime": 73.768,
+    "endTime": 76.456,
+    "text": "This grass has not been cut."
+  },
+  {
+    "id": 22,
+    "startTime": 76.456,
+    "endTime": 79.336,
+    "text": "So you can see the difference."
+  },
+  {
+    "id": 23,
+    "startTime": 79.336,
+    "endTime": 81.30358974358974,
+    "text": "This grass is taller."
+  },
+  {
+    "id": 24,
+    "startTime": 81.30358974358974,
+    "endTime": 84.86666666666666,
+    "text": "It's taller and it has not been cut."
+  },
+  {
+    "id": 25,
+    "startTime": 84.86666666666666,
+    "endTime": 87.04410256410256,
+    "text": "This grass is shorter."
+  },
+  {
+    "id": 26,
+    "startTime": 87.04410256410256,
+    "endTime": 90.72207792207791,
+    "text": "It's shorter so it has been cut."
+  },
+  {
+    "id": 27,
+    "startTime": 90.72207792207791,
+    "endTime": 93.15324675324675,
+    "text": "Now these are trees."
+  },
+  {
+    "id": 28,
+    "startTime": 93.15324675324675,
+    "endTime": 95.21974025974026,
+    "text": "These are lemons."
+  },
+  {
+    "id": 29,
+    "startTime": 95.21974025974026,
+    "endTime": 97.16658227848102,
+    "text": "And this is a car."
+  },
+  {
+    "id": 30,
+    "startTime": 97.16658227848102,
+    "endTime": 101.19898734177215,
+    "text": "There is someone inside of the car, you see?"
+  },
+  {
+    "id": 31,
+    "startTime": 101.19898734177215,
+    "endTime": 101.84050632911392,
+    "text": "Inside."
+  },
+  {
+    "id": 32,
+    "startTime": 101.84050632911392,
+    "endTime": 105.02578947368423,
+    "text": "You could also call this a pond."
+  },
+  {
+    "id": 33,
+    "startTime": 105.02578947368423,
+    "endTime": 106.78315789473686,
+    "text": "It's a pond of water."
+  },
+  {
+    "id": 34,
+    "startTime": 106.78315789473686,
+    "endTime": 115.45620253164557,
+    "text": "Even if you didn't understand every word I said, your brain is already learning through the visuals, context, and repetition."
+  },
+  {
+    "id": 35,
+    "startTime": 115.45620253164557,
+    "endTime": 119.92,
+    "text": "And also you could probably guess what I was talking about based on my actions, right?"
+  },
+  {
+    "id": 36,
+    "startTime": 119.92,
+    "endTime": 136.46597402597402,
+    "text": "The comprehensible input learning method is better than other methods because you'll learn vocabulary, pronunciation, listening comprehension skills, grammar and sentence structure, and by far the most important, how to start thinking in English."
+  },
+  {
+    "id": 37,
+    "startTime": 136.46597402597402,
+    "endTime": 139.4690909090909,
+    "text": "All without boring lessons and textbooks."
+  },
+  {
+    "id": 38,
+    "startTime": 139.4690909090909,
+    "endTime": 150.4505,
+    "text": "So that is why I decided I'm gonna teach you these 3,000 words through real-life vlogs to make learning fun, natural, and way, way less boring."
+  },
+  {
+    "id": 39,
+    "startTime": 150.4505,
+    "endTime": 154.7959420289855,
+    "text": "These are real-life vlogs, traveling, and adventures."
+  },
+  {
+    "id": 40,
+    "startTime": 154.7959420289855,
+    "endTime": 158.35999999999999,
+    "text": "All designed to be as interesting as possible to teach you"
+  },
+  {
+    "id": 41,
+    "startTime": 158.64000000000001,
+    "endTime": 163.4,
+    "text": "English with comprehensible input in a fun way so that it doesn't feel like work."
+  },
+  {
+    "id": 42,
+    "startTime": 163.4,
+    "endTime": 170.38666666666668,
+    "text": "It doesn't feel like you're studying because I want you to stick around until you reach your goals of being fluent in English."
+  },
+  {
+    "id": 43,
+    "startTime": 170.38666666666668,
+    "endTime": 179.19950000000003,
+    "text": "Whether you're beginner, intermediate, or advanced, these videos will help you become fluent in English and should be a part of your daily study routine."
+  },
+  {
+    "id": 44,
+    "startTime": 179.19950000000003,
+    "endTime": 193.16,
+    "text": "So the steps you want to follow is first, you want to watch comprehensible input videos like my videos, and as you're watching these videos you want to practice listening comprehension, your pronunciation, you could practice shadowing techniques as"
+  },
+  {
+    "id": 45,
+    "startTime": 193.16,
+    "endTime": 201.232,
+    "text": "you watch these videos, and also watch out for sentence structure, grammar, and just learn this naturally instead of doing lessons in class."
+  },
+  {
+    "id": 46,
+    "startTime": 201.232,
+    "endTime": 205.0005063291139,
+    "text": "The second step is to reinforce this learning you just had in the video."
+  },
+  {
+    "id": 47,
+    "startTime": 205.0005063291139,
+    "endTime": 214.14700000000002,
+    "text": "You could use this chat GPT prompt I made for you, it's in the description, and this allows you to just reinforce what you learned in the video so it gives you the definition for the word again."
+  },
+  {
+    "id": 48,
+    "startTime": 214.14700000000002,
+    "endTime": 217.339,
+    "text": "It gives you examples for the past, present, and future."
+  },
+  {
+    "id": 49,
+    "startTime": 217.339,
+    "endTime": 229.76000000000002,
+    "text": "It also gives you mini quizzes to ensure you understood everything about that word, and finally it's very customizable so if you want to have different verb tenses you could just ask it to give you different verb tenses for that word, and also it"
+  },
+  {
+    "id": 50,
+    "startTime": 229.76000000000002,
+    "endTime": 236.90933333333334,
+    "text": "could explain to you just in English or in English and your language or just your language, whatever your level is, and whatever you're comfortable with."
+  },
+  {
+    "id": 51,
+    "startTime": 236.90933333333334,
+    "endTime": 246.88050632911393,
+    "text": "This will really help you solidify your learnings from the comprehensible input video, and on top of that you can just ask it any questions or any confusions you have about anything in English, and it will answer it."
+  },
+  {
+    "id": 52,
+    "startTime": 246.88050632911393,
+    "endTime": 255.2,
+    "text": "And the third step is more optional, but if you want to remember these words for the long term, especially if you don't have the chance to speak English a lot, you can use an"
+  },
+  {
+    "id": 53,
+    "startTime": 255.2,
+    "endTime": 260.152,
+    "text": "SRS software like Enki and put these words into that software to make sure you don't forget them."
+  },
+  {
+    "id": 54,
+    "startTime": 260.152,
+    "endTime": 266.5255696202531,
+    "text": "And if you don't want to use an SRS software, you can just simply review the words on your own time whenever you feel you need to revise them."
+  },
+  {
+    "id": 55,
+    "startTime": 266.5255696202531,
+    "endTime": 270.9877333333334,
+    "text": "And the great thing about this strategy, it's very simple, it's just three steps to follow."
+  },
+  {
+    "id": 56,
+    "startTime": 270.9877333333334,
+    "endTime": 278.7448101265823,
+    "text": "So in summary, watch comprehensible input videos like mine, use the ChatGBT prompt I gave you in the description to help reinforce what you just learned."
+  },
+  {
+    "id": 57,
+    "startTime": 278.7448101265823,
+    "endTime": 281.96658227848104,
+    "text": "The third step, use an SRS software for long term memorization."
+  },
+  {
+    "id": 58,
+    "startTime": 281.96658227848104,
+    "endTime": 283.32512820512824,
+    "text": "I'm talking months and years."
+  },
+  {
+    "id": 59,
+    "startTime": 283.32512820512824,
+    "endTime": 292.58736842105264,
+    "text": "And even if you don't follow all the steps, you could just watch the videos and that will still be beneficial for you because it has comprehensible input, which is a great way to learn languages."
+  },
+  {
+    "id": 60,
+    "startTime": 292.58736842105264,
+    "endTime": 298.5567567567567,
+    "text": "Comprehensible input videos like this are four times more effective than traditional learning methods."
+  },
+  {
+    "id": 61,
+    "startTime": 298.5567567567567,
+    "endTime": 306.4629333333333,
+    "text": "This means that my 10 to 15 minute vlog is worth up to one hour of classroom instruction and it's completely free."
+  },
+  {
+    "id": 62,
+    "startTime": 306.4629333333333,
+    "endTime": 310.98615384615385,
+    "text": "All I ask is that you please subscribe and share these videos with your friends."
+  },
+  {
+    "id": 63,
+    "startTime": 310.98615384615385,
+    "endTime": 314.34000000000003,
+    "text": "And don't forget to turn on notifications so you never miss a vlog."
+  },
+  {
+    "id": 64,
+    "startTime": 314.34000000000003,
+    "endTime": 319.47076923076924,
+    "text": "If you haven't seen my previous videos, check out this playlist to catch up on the words you've missed."
+  },
+  {
+    "id": 65,
+    "startTime": 319.47076923076924,
+    "endTime": 324.3686486486486,
+    "text": "And if you guys want, you could follow my personal Instagram, VolcaEagle."
+  },
+  {
+    "id": 66,
+    "startTime": 324.3686486486486,
+    "endTime": 327.3424,
+    "text": "And don't forget, you will be fluent one day."
+  },
+  {
+    "id": 67,
+    "startTime": 327.3424,
+    "endTime": 330.44,
+    "text": "You just have to keep on trying and not give up."
+  }
+]
